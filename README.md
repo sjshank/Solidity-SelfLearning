@@ -1,2 +1,2 @@
 # Solidity-SelfLearning
-Amount of smart contracts created using solidity for self learning
+Few examples on smart contracts created using solidity for self learning. Helpful for beginners
